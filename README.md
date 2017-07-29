@@ -1,3 +1,6 @@
+# [Demo](http://ec2-34-201-49-136.compute-1.amazonaws.com/)
+
+
 # About
 
 This project is a part of Full Stack Developer Nanodegree from [Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
@@ -493,7 +496,3 @@ The public IP address is [http://34.201.49.136/](http://34.201.49.136/) and the 
     RedirectMatch 404 /\.git
     ```      
   - Save and exit.
-
-
-## 6. Live Demo
-  - Navigate to [http://ec2-34-201-49-136.compute-1.amazonaws.com/](http://ec2-34-201-49-136.compute-1.amazonaws.com/) in web browser. 
